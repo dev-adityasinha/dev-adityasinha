@@ -45,8 +45,8 @@ From the latest advancements in science and tech to stargazing under the night s
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=radical" alt="Sayan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-adityasinha&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-adityasinha&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
 </p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="20%" align="right">
 
@@ -54,14 +54,16 @@ From the latest advancements in science and tech to stargazing under the night s
 <p align="center">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBmOGE2YWVleDFyYjYxejcwbW1jamYxZWFybWlxOTYxaTNrZmo0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.webp" width="10%" align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJjbWJtbng0cmNzbzVjOXJ4bHVhcmhxMXRtMXNuNWgycHRtYnBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.webp" width="10%" align="right">
-  <img src="https://img.shields.io/badge/-Computer%20Vision-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NLP-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Javascript?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Typescript?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NodeJs?style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NextJs?style=for-the-badge&logo=C-Sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Github?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDb?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
 </p>
 
 ## Contribution Snake
