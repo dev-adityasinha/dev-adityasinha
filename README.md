@@ -32,14 +32,13 @@ From the latest advancements in science and tech to stargazing under the night s
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="20%" align="right">
 <p align="right">
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=Unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Html-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS-007396?style=for-the-badge&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Javascript-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=Unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NextJs-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
