@@ -26,7 +26,7 @@ Competitive Coder & Game Developer. A curious mind fascinated by science, techno
 
 From the latest advancements in science and tech to stargazing under the night sky, I'm driven by discovery. My hobbies reflect this: I've built Deep Learning Programs, demonstrating my coding skills, and I stay current on tech news. Whether exploring the cosmos or diving into competitive coding on CodeChef, I'm always learning and growing.
 
-🌌 Space mysteries make my mind go 🤔! Music + code = 😊 for me. Laughter is my kryptonite 🤣 I build cool stuff with code (Java, Python, + more!), tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
+🌌 Space mysteries make my mind go 🤔! Music + code = 😊 for me. Laughter is my kryptonite 🤣 I build cool stuff with code, tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
 
 ## Technologies & Tools
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="20%" align="right">
@@ -43,26 +43,12 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 </p>
 
-## Currently Learning
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzN5ZjBpZXJ3ZGZ5NzE1eGI0cXkwZHU1OGw5bzgyOWh3Z2VtMWJxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.webp" width="10%" align="left">
-<p align="left"><br>
-  <img src="https://img.shields.io/badge/-Generative%20AI-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Advanced%20Computer%20Vision-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NLP-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Machine%20Learning-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-</p><br><br>
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sayan-Dev731&show_icons=true&theme=radical" alt="Sayan's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan-Dev731&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
 </p>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="20%" align="right">
-
-## Projects
-- [**Project Portfolio**](https://github.com/dev-adityasinha/MyWebsite/)
-- [**Unity Game Project**](https://github.com/dev-adityasinha/unity-game-project)
-- [**Godot Game Project**](https://github.com/dev-adityasinha/godot-game-project)
 
 ## Skills
 <p align="center">
@@ -77,13 +63,6 @@ From the latest advancements in science and tech to stargazing under the night s
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/-GDScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
 </p>
-
-## Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sayan-Dev731&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayan-Dev731&theme=radical" alt="GitHub Streak" />
-</p>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjd0YzU0MG1rd2tjMDFjb3k2M3JlNWp2ZHJuMGxxcmZwc2VhOWsxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pd0HQOQN71YHtkXSu3/giphy.webp" width="15%" align="right">
 
 ## Contribution Snake
 ![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
