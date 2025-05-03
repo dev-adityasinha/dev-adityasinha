@@ -14,11 +14,11 @@
   <a href="mailto:heis.adityasinha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
-Competitive Coder & Game Developer. A curious mind fascinated by science, technology, and the melodies of life! I have a deep passion for understanding the world around me and an unquenchable thirst for knowledge.
+Competitive Coder & Full Stack Developer. A curious mind fascinated by science, technology, and the melodies of life! I have a deep passion for understanding the world around me and an unquenchable thirst for knowledge.
 
 From the latest advancements in science and tech to stargazing under the night sky, I'm driven by discovery. My hobbies reflect this: I've built Deep Learning Programs, demonstrating my coding skills, and I stay current on tech news. Whether exploring the cosmos or diving into competitive coding on CodeChef, I'm always learning and growing.
 
-🌌 Space mysteries make my mind go 🤔! Music + code = 😊 for me. Laughter is my kryptonite 🤣 I build cool stuff with code, tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
+🌌 Space mysteries make my mind go 🤔, I build cool stuff with code, tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
 
 ## Technologies & Tools
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="20%" align="right">
