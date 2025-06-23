@@ -5,6 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-adityasinha&color=brightgreen)
 
 ## About Me
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
 🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
 
