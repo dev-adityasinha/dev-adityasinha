@@ -4,11 +4,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev-adityasinha&color=brightgreen)
 
-## About Me
+# About Me
 
 🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
 
-### Connect with Me
+# Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-sinha-1952172a0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:heis.adityasinha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
