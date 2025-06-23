@@ -6,7 +6,7 @@
 
 ## About Me
 🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY290cDNzMXJvczg2ZzR1dThuaG5xaTV0d3RoYWFpa3dqaHYwYzA4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lINRJmPp5n4fMjCm9B/giphy.webp" width="30%" align="right">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
 
 ### Connect with Me
 <p align="left">
