@@ -47,15 +47,15 @@ From the latest advancements in science and tech to stargazing under the night s
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBmOGE2YWVleDFyYjYxejcwbW1jamYxZWFybWlxOTYxaTNrZmo0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.webp" width="10%" align="left">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJjbWJtbng0cmNzbzVjOXJ4bHVhcmhxMXRtMXNuNWgycHRtYnBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.webp" width="10%" align="right">
   <img src="https://img.shields.io/badge/-HTML?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Javascript?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Typescript?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS?style=for-the-badge&logo=CSS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Javascript?style=for-the-badge&logo=Javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Typescript?style=for-the-badge&logo=Typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NodeJs?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NextJs?style=for-the-badge&logo=C-Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Github?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDb?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NodeJs?style=for-the-badge&logo=NodeJs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NextJs?style=for-the-badge&logo=NextJs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git?style=for-the-badge&logo=Git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Github?style=for-the-badge&logo=Github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDb?style=for-the-badge&logo=MongoDb&logoColor=white" />
 </p>
 
 ## Contribution Snake
