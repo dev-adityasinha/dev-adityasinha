@@ -1,63 +1,176 @@
-# I 'm Aditya Sinha 👋
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJpeWpzNzFram14b3RpdmpmYmFsdGFtZDY5ZzQzeDdjYnRudHljbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/X8WXNdX1neJXhwJc4W/giphy.webp" width="15%" align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dev-adityasinha&color=brightgreen)
-
-# About Me
-
-🚀 Space boy, coding joy, moments to deploy. 💻 Seize the day, with code at play. 😁 Smiles alight, in every byte. 💾
-
-# Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-sinha-1952172a0/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:heis.adityasinha@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-</p>
-
-Competitive Coder & Full Stack Developer. A curious mind fascinated by science, technology, and the melodies of life! I have a deep passion for understanding the world around me and an unquenchable thirst for knowledge.
-
-From the latest advancements in science and tech to stargazing under the night sky, I'm driven by discovery. My hobbies reflect this: I've built Deep Learning Programs, demonstrating my coding skills, and I stay current on tech news. Whether exploring the cosmos or diving into competitive coding on CodeChef, I'm always learning and growing.
-
-🌌 Space mysteries make my mind go 🤔, I build cool stuff with code, tackle deep learning & IoT projects, and even make game scenes ✨ Competitive coding? Let's go! 🏆
-
-## Technologies & Tools
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmt4bTdybDM4d25pY2s1OXE2M2c0ZTQzN2J3ajJ1MTR1bDV3Y2RoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kH1DBkPNyZPOk0BxrM/giphy.webp" width="20%" align="right">
-<p align="right">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Html-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-007396?style=for-the-badge&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Javascript-239120?style=for-the-badge&logo=C-Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-478CBF?style=for-the-badge&logo=Godot-Engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=Unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NextJs-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
-</p>
-
-## GitHub Stats
+<!-- 🎯 Animated Web Developer Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-adityasinha&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-adityasinha&layout=compact&theme=radical" alt="Top Languages" width="38%"/>
+  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Web Developer Banner" width="100%" />
 </p>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnlxZDhkeXg2aTBwN2o1bm1yNDYwY3Nmb29hMTVlcXZ0YXhoMjVuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/z0hUv6bpBWUUOtShDf/giphy.webp" width="20%" align="right">
 
-## Skills
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=1&pause=10000000&color=5D8BF4&center=true&vCenter=true&width=500&height=60&lines=Hello%2C+I'm+Aditya+Sinha" alt="Hello, I'm Aditya Sinha" />
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=500&color=A5B4FC&center=true&vCenter=true&width=500&height=40&lines=MERN+Stack+Developer;Clean+Code+Enthusiast;Problem+Solver;Continuous+Learner" alt="MERN Stack Developer" />
+</h3>
+
+<div align="center">
+  
+  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=dev-adityasinha&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+## 🚀 **Core Competencies**
+
+### **Languages**
 <p align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDBmOGE2YWVleDFyYjYxejcwbW1jamYxZWFybWlxOTYxaTNrZmo0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LMt9638dO8dftAjtco/giphy.webp" width="10%" align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJjbWJtbng0cmNzbzVjOXJ4bHVhcmhxMXRtMXNuNWgycHRtYnBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SU2ic3wTfuC6JhD1lA/giphy.webp" width="10%" align="right">
-  <img src="https://img.shields.io/badge/-HTML?style=for-the-badge&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS?style=for-the-badge&logo=CSS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Javascript?style=for-the-badge&logo=Javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Typescript?style=for-the-badge&logo=Typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NodeJs?style=for-the-badge&logo=NodeJs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NextJs?style=for-the-badge&logo=NextJs&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Github?style=for-the-badge&logo=Github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDb?style=for-the-badge&logo=MongoDb&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </p>
 
-## Contribution Snake
-![GitHub Snake Light](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+### **Frontend Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+### **Backend Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/EJS-000000?style=for-the-badge&logo=ejs&logoColor=white" />
+</p>
+
+### **Databases & Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46A2F1?style=for-the-badge&logo=render&logoColor=white" />
+</p>
+
+---
+
+## 🌟 **Top Projects**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 📹 MeetPro  
+<a href="https://github.com/akofficial10/MeetPro" target="_blank">
+  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<b>📡 Video Meeting App with Chat & Authentication</b><br/>
+<a href="https://meetpro-1.onrender.com/" target="_blank">
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🤖 Resume Analyzer  
+<a href="https://github.com/akofficial10/Resume-Analyzer" target="_blank">
+  <img src="https://github.com/user-attachments/assets/24f74c53-1d5d-41b2-9562-f2094d2fe672" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<b>🤝 AI-powered Resume Analysis with Smart Insights</b><br/>
+<a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" valign="top">
+
+### 🛒 E-Commerce  
+<a href="https://github.com/akofficial10/E-commerce" target="_blank">
+  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<b>🛍️ Full-featured Online Store with Modern UI/UX</b><br/>
+<a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+### 🎮 Simon Says  
+<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
+  <img src="https://github.com/user-attachments/assets/06f316de-0946-4ce0-9e70-595d66e97cec" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
+</a>
+
+<b>🧠 Classic Simon Says Memory Game</b><br/>
+<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
+ <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+
+
+</div>
+
+## 🏆 **GitHub Stats**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&cache_bust=1" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&cache_bust=1" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight&cache_bust=1" />
+</div>
+
+
+
+
+
+## 🏆 **Hacktoberfest 2025**
+<p align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+[![Holopin Badges](https://holopin.me/akofficial10)](https://holopin.io/@akofficial10)
+
+---
+
+## 📫 **Connect With Me**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushkumar10/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:akofficial1330@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=5D8BF4&center=true&vCenter=true&width=600&lines=✨+Thank+You+for+Visiting+✨" alt="Thank You for Visiting" />
+</h2>
