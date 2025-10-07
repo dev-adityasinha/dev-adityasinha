@@ -64,86 +64,12 @@
 
 ---
 
-## 🌟 **Top Projects**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 📹 MeetPro  
-<a href="https://github.com/akofficial10/MeetPro" target="_blank">
-  <img src="https://github.com/user-attachments/assets/4cd6cdd7-c8c9-4a0f-8861-052facac31eb" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>📡 Video Meeting App with Chat & Authentication</b><br/>
-<a href="https://meetpro-1.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🤖 Resume Analyzer  
-<a href="https://github.com/akofficial10/Resume-Analyzer" target="_blank">
-  <img src="https://github.com/user-attachments/assets/24f74c53-1d5d-41b2-9562-f2094d2fe672" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>🤝 AI-powered Resume Analysis with Smart Insights</b><br/>
-<a href="https://resume-analyzer-1-qcwc.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🛒 E-Commerce  
-<a href="https://github.com/akofficial10/E-commerce" target="_blank">
-  <img src="https://github.com/user-attachments/assets/04b3c3aa-5263-47b6-b0b2-17f6da40906b" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>🛍️ Full-featured Online Store with Modern UI/UX</b><br/>
-<a href="https://e-commerce-1-5lp9.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
-
-</td>
-
-<td width="50%" align="center" valign="top">
-
-### 🎮 Simon Says  
-<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/06f316de-0946-4ce0-9e70-595d66e97cec" width="100%" style="border-radius: 15px; border: 3px solid #5D8BF4; box-shadow: 0px 0px 12px rgba(93,139,244,0.6);" />
-</a>
-
-<b>🧠 Classic Simon Says Memory Game</b><br/>
-<a href="https://simon-says-z6nx.onrender.com/" target="_blank">
- <img src="https://img.shields.io/badge/🚀_Live_Demo-5D8BF4?style=for-the-badge&logoColor=white" />
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-
-
-</div>
-
 ## 🏆 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akofficial10&show_icons=true&theme=tokyonight&cache_bust=1" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akofficial10&layout=compact&theme=tokyonight&cache_bust=1" height="180em" />
-  <img src="https://streak-stats.demolab.com/?user=akofficial10&theme=tokyonight&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-adityasinha&show_icons=true&theme=tokyonight&cache_bust=1" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-adityasinha&layout=compact&theme=tokyonight&cache_bust=1" height="180em" />
+  <img src="https://streak-stats.demolab.com/?user=dev-adityasinha&theme=tokyonight&cache_bust=1" />
 </div>
 
 
@@ -155,17 +81,17 @@
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-[![Holopin Badges](https://holopin.me/akofficial10)](https://holopin.io/@akofficial10)
+[![Holopin Badges](https://holopin.me/dev-adityasinha)](https://holopin.io/@dev-adityasinha)
 
 ---
 
 ## 📫 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushkumar10/" target="_blank">
+  <a href="https://www.linkedin.com/in/aditya-sinha-1952172a0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:akofficial1330@gmail.com" target="_blank">
+  <a href="mailto:heis.adityasinha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
