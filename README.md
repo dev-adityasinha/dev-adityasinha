@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-[![Holopin Badges](https://holopin.me/dev-adityasinha)]((https://www.holopin.io/@123adi#))
+[![An image of @123adi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/123adi)](https://holopin.io/@123adi)
 
 ---
 
